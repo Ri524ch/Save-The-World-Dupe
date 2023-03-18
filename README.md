@@ -1,5 +1,6 @@
-# Save-The-World-Dupe
-Dupev3 Code for Normal Profile and Ventures
+# Fortnite Save The World Dupe
+
+Dupev3 Code (Normal/Ventures Profiles)
 
 Normal Dupe
 
